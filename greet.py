@@ -1,8 +1,9 @@
-def greet(name):
-    return f"Hello, {name}!"
 # The editor is an incomplete code.
 # Update the function greet_and_capitalize by calling the above defined functions inside it to get expected output
 # Expected Results : Final Result: HELLO, ALICE!
+
+def greet(name):
+    return f"Hello, {name}!"
 
 
 def capitalize(text):
