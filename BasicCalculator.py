@@ -1,6 +1,7 @@
 # Create a simple calculator that can perform basic arithmetic
 # operations like addition, subtraction, multiplication, and division.
 
+# Defining Operations
 def add(x, y):
     return x + y
 
@@ -27,11 +28,13 @@ def calculator():
     print("3.Multiply")
     print("4.Divide")
 
+    # Take user Input
     selection = input("Enter your choice: ")
 
     num1 = int(input("Enter first number: "))
     num2 = int(input("Enter second number: "))
 
+    # Perform Calculation (using conditional statements)
     if selection == '1':
         result = add(num1, num2)
     elif selection == '2':
@@ -42,6 +45,8 @@ def calculator():
         result = divide(num1, num2)
     else:
         result = "Invalid"
+
+    # Print the results
     print(f"Result: {result}")
 
 
