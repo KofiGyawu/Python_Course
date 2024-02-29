@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcdc26de-ff17-4fa1-9ced-c739d67bfdad" name="Changes" comment="&quot;Hello&quot;">
-      <change afterPath="$PROJECT_DIR$/GuessGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,7 @@
     "Python.CalculateS.executor": "Run",
     "Python.ComputeValue.executor": "Run",
     "Python.GuessGame.executor": "Run",
+    "Python.game.executor": "Run",
     "Python.greet.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -53,7 +52,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.game">
+  <component name="RunManager" selected="Python.GuessGame">
     <configuration name="AddNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Course" />
       <option name="ENV_FILES" value="" />
@@ -194,8 +193,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.game" />
         <item itemvalue="Python.GuessGame" />
+        <item itemvalue="Python.game" />
         <item itemvalue="Python.BasicCalculator" />
         <item itemvalue="Python.BasicMath" />
         <item itemvalue="Python.AddNum" />
@@ -220,7 +219,7 @@
       <workItem from="1709068959630" duration="3000" />
       <workItem from="1709068979025" duration="13000" />
       <workItem from="1709146596902" duration="305000" />
-      <workItem from="1709146954391" duration="11727000" />
+      <workItem from="1709146954391" duration="12167000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Hello&quot;">
       <option name="closed" value="true" />
@@ -294,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709179280170</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&quot;Hello&quot;">
+      <option name="closed" value="true" />
+      <created>1709182800658</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709182800658</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,6 +341,7 @@
     <SUITE FILE_PATH="coverage/Python_Course$AddNum.coverage" NAME="AddNum Coverage Results" MODIFIED="1709155295138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Course$main.coverage" NAME="main Coverage Results" MODIFIED="1709150486784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Course$BasicCalculator.coverage" NAME="BasicCalculator Coverage Results" MODIFIED="1709179197538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Course$GuessGame.coverage" NAME="GuessGame Coverage Results" MODIFIED="1709182195799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Course$GuessGame.coverage" NAME="GuessGame Coverage Results" MODIFIED="1709182754057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Course$game.coverage" NAME="game Coverage Results" MODIFIED="1709182390074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
