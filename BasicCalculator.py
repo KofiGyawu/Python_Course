@@ -21,12 +21,17 @@ def divide(x, y):
         return "Can be divided by zero"
 
 
+def power(x, y):
+    return x ** y
+
+
 def calculator():
     print("select your choice of operation")
     print("1.Add")
     print("2.Subtract")
     print("3.Multiply")
     print("4.Divide")
+    print("5.Power")
 
     # Take user Input
     selection = input("Enter your choice: ")
@@ -43,6 +48,8 @@ def calculator():
         result = multiply(num1, num2)
     elif selection == '4':
         result = divide(num1, num2)
+    elif selection == '5':
+        result = power(num1, num2)
     else:
         result = "Invalid"
 
